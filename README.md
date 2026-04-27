@@ -223,7 +223,10 @@ ul {
 ```
 
 ## OUTPUT
+```
+<img width="1517" height="828" alt="image" src="https://github.com/user-attachments/assets/cad1ac63-8eec-4593-b584-d1927b77b79e" />
 
+```
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
